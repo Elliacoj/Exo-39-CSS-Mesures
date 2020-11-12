@@ -10,7 +10,7 @@ html {
 
 .container {
     background-color: blue;
-    border: 1px dashed yellow;
+    border: 2px dashed yellow;
     height: 20rem;
     width: 20rem;
 }
